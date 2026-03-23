@@ -1,0 +1,54 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "minecraft:stony_peaks",
+  "spawners": [
+    {
+      "type": "fossil:ceratosaurus",
+      "weight": 60,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "type": "fossil:elasmotherium",
+      "weight": 60,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "type": "fossil:kelenken",
+      "weight": 80,
+      "minCount": 2,
+      "maxCount": 5
+    },
+    {
+      "type": "fossil:megaloceros",
+      "weight": 80,
+      "minCount": 2,
+      "maxCount": 5
+    },
+    {
+      "type": "fossil:pachycephalosaurus",
+      "weight": 80,
+      "minCount": 2,
+      "maxCount": 5
+    },
+    {
+      "type": "fossil:smilodon",
+      "weight": 80,
+      "minCount": 1,
+      "maxCount": 4
+    },
+    {
+      "type": "fossil:titanis",
+      "weight": 60,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "type": "fossil:triceratops",
+      "weight": 60,
+      "minCount": 2,
+      "maxCount": 5
+    }
+  ]
+}

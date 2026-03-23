@@ -1,3 +1,7 @@
 {
-  "values": []
+  "values": [
+    "minecraft:savanna",
+    "minecraft:windswept_savanna",
+    "minecraft:desert"
+  ]
 }

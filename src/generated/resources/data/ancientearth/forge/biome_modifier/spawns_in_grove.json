@@ -1,0 +1,54 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "minecraft:grove",
+  "spawners": [
+    {
+      "type": "fossil:elasmotherium",
+      "weight": 80,
+      "minCount": 2,
+      "maxCount": 5
+    },
+    {
+      "type": "fossil:gastornis",
+      "weight": 60,
+      "minCount": 1,
+      "maxCount": 4
+    },
+    {
+      "type": "fossil:mammoth",
+      "weight": 80,
+      "minCount": 2,
+      "maxCount": 5
+    },
+    {
+      "type": "fossil:megaloceros",
+      "weight": 100,
+      "minCount": 2,
+      "maxCount": 6
+    },
+    {
+      "type": "fossil:pachyrhinosaurus",
+      "weight": 80,
+      "minCount": 2,
+      "maxCount": 5
+    },
+    {
+      "type": "fossil:parasaurolophus",
+      "weight": 60,
+      "minCount": 2,
+      "maxCount": 5
+    },
+    {
+      "type": "fossil:smilodon",
+      "weight": 80,
+      "minCount": 1,
+      "maxCount": 4
+    },
+    {
+      "type": "fossil:triceratops",
+      "weight": 60,
+      "minCount": 2,
+      "maxCount": 5
+    }
+  ]
+}

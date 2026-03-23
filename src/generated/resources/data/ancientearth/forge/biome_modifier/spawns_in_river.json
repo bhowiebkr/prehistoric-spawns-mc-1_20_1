@@ -1,0 +1,114 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "minecraft:river",
+  "spawners": [
+    {
+      "type": "fossil:ceratosaurus",
+      "weight": 60,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "type": "fossil:confuciusornis",
+      "weight": 80,
+      "minCount": 2,
+      "maxCount": 6
+    },
+    {
+      "type": "fossil:dimetrodon",
+      "weight": 80,
+      "minCount": 2,
+      "maxCount": 5
+    },
+    {
+      "type": "fossil:dimorphodon",
+      "weight": 80,
+      "minCount": 2,
+      "maxCount": 6
+    },
+    {
+      "type": "fossil:diplocaulus",
+      "weight": 100,
+      "minCount": 1,
+      "maxCount": 4
+    },
+    {
+      "type": "fossil:dryosaurus",
+      "weight": 80,
+      "minCount": 2,
+      "maxCount": 5
+    },
+    {
+      "type": "fossil:edaphosaurus",
+      "weight": 80,
+      "minCount": 2,
+      "maxCount": 5
+    },
+    {
+      "type": "fossil:gallimimus",
+      "weight": 60,
+      "minCount": 2,
+      "maxCount": 5
+    },
+    {
+      "type": "fossil:henodus",
+      "weight": 80,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "type": "fossil:meganeura",
+      "weight": 100,
+      "minCount": 3,
+      "maxCount": 8
+    },
+    {
+      "type": "fossil:pachycephalosaurus",
+      "weight": 80,
+      "minCount": 2,
+      "maxCount": 4
+    },
+    {
+      "type": "fossil:pachyrhinosaurus",
+      "weight": 80,
+      "minCount": 2,
+      "maxCount": 5
+    },
+    {
+      "type": "fossil:parasaurolophus",
+      "weight": 80,
+      "minCount": 2,
+      "maxCount": 5
+    },
+    {
+      "type": "fossil:postosuchus",
+      "weight": 60,
+      "minCount": 1,
+      "maxCount": 2
+    },
+    {
+      "type": "fossil:quetzalcoatlus",
+      "weight": 40,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "type": "fossil:sarcosuchus",
+      "weight": 80,
+      "minCount": 1,
+      "maxCount": 4
+    },
+    {
+      "type": "fossil:spinosaurus",
+      "weight": 60,
+      "minCount": 1,
+      "maxCount": 2
+    },
+    {
+      "type": "fossil:tiktaalik",
+      "weight": 80,
+      "minCount": 1,
+      "maxCount": 4
+    }
+  ]
+}

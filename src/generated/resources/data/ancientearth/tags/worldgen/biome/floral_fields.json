@@ -1,3 +1,6 @@
 {
-  "values": []
+  "values": [
+    "minecraft:flower_forest",
+    "minecraft:meadow"
+  ]
 }

@@ -1,3 +1,7 @@
 {
-  "values": []
+  "values": [
+    "minecraft:badlands",
+    "minecraft:eroded_badlands",
+    "minecraft:desert"
+  ]
 }

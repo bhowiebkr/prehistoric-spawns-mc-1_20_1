@@ -1,0 +1,54 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "minecraft:stony_shore",
+  "spawners": [
+    {
+      "type": "fossil:confuciusornis",
+      "weight": 80,
+      "minCount": 2,
+      "maxCount": 6
+    },
+    {
+      "type": "fossil:dimorphodon",
+      "weight": 80,
+      "minCount": 2,
+      "maxCount": 6
+    },
+    {
+      "type": "fossil:dodo",
+      "weight": 80,
+      "minCount": 2,
+      "maxCount": 6
+    },
+    {
+      "type": "fossil:ichthyosaurus",
+      "weight": 60,
+      "minCount": 1,
+      "maxCount": 4
+    },
+    {
+      "type": "fossil:kelenken",
+      "weight": 60,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "type": "fossil:pachycephalosaurus",
+      "weight": 60,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "type": "fossil:pteranodon",
+      "weight": 80,
+      "minCount": 2,
+      "maxCount": 6
+    },
+    {
+      "type": "fossil:quetzalcoatlus",
+      "weight": 40,
+      "minCount": 1,
+      "maxCount": 3
+    }
+  ]
+}

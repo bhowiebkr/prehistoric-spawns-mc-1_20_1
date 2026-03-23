@@ -1,0 +1,42 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "minecraft:ice_spikes",
+  "spawners": [
+    {
+      "type": "fossil:elasmotherium",
+      "weight": 100,
+      "minCount": 2,
+      "maxCount": 6
+    },
+    {
+      "type": "fossil:mammoth",
+      "weight": 100,
+      "minCount": 2,
+      "maxCount": 6
+    },
+    {
+      "type": "fossil:megaloceros",
+      "weight": 100,
+      "minCount": 2,
+      "maxCount": 6
+    },
+    {
+      "type": "fossil:pachyrhinosaurus",
+      "weight": 80,
+      "minCount": 2,
+      "maxCount": 5
+    },
+    {
+      "type": "fossil:smilodon",
+      "weight": 60,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "type": "fossil:gastornis",
+      "weight": 60,
+      "minCount": 1,
+      "maxCount": 3
+    }
+  ]
+}

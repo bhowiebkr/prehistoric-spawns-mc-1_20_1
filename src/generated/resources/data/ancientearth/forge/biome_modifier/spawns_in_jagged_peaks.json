@@ -1,0 +1,42 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "minecraft:jagged_peaks",
+  "spawners": [
+    {
+      "type": "fossil:elasmotherium",
+      "weight": 80,
+      "minCount": 1,
+      "maxCount": 4
+    },
+    {
+      "type": "fossil:kelenken",
+      "weight": 60,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "type": "fossil:mammoth",
+      "weight": 80,
+      "minCount": 2,
+      "maxCount": 5
+    },
+    {
+      "type": "fossil:megaloceros",
+      "weight": 80,
+      "minCount": 2,
+      "maxCount": 5
+    },
+    {
+      "type": "fossil:pachycephalosaurus",
+      "weight": 60,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "type": "fossil:smilodon",
+      "weight": 80,
+      "minCount": 1,
+      "maxCount": 4
+    }
+  ]
+}
