@@ -2,6 +2,7 @@
   "values": [
     "minecraft:beach",
     "terralith:gravel_beach",
-    "terralith:alpha_islands"
+    "terralith:alpha_islands",
+    "blooming_biosphere:tidepools"
   ]
 }
