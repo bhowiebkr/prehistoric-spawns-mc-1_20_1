@@ -1,5 +1,9 @@
 {
   "values": [
-    "minecraft:savanna"
+    "minecraft:savanna",
+    "terralith:brushland",
+    "terralith:steppe",
+    "terralith:shrubland",
+    "terralith:rocky_shrubland"
   ]
 }

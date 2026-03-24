@@ -1,7 +1,9 @@
 {
   "values": [
     "minecraft:savanna",
-    "minecraft:windswept_savanna",
-    "minecraft:desert"
+    "terralith:shrubland",
+    "terralith:rocky_shrubland",
+    "terralith:hot_shrubland",
+    "terralith:brushland"
   ]
 }

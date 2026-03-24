@@ -1,6 +1,12 @@
 {
   "values": [
     "minecraft:flower_forest",
-    "minecraft:meadow"
+    "minecraft:meadow",
+    "terralith:blooming_plateau",
+    "terralith:blooming_valley",
+    "terralith:lavender_forest",
+    "terralith:lavender_valley",
+    "terralith:sakura_grove",
+    "terralith:sakura_valley"
   ]
 }

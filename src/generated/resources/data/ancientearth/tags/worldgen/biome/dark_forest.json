@@ -1,5 +1,7 @@
 {
   "values": [
-    "minecraft:dark_forest"
+    "minecraft:dark_forest",
+    "terralith:moonlight_grove",
+    "terralith:moonlight_valley"
   ]
 }

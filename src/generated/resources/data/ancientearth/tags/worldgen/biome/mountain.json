@@ -1,6 +1,16 @@
 {
   "values": [
     "minecraft:stony_peaks",
-    "minecraft:windswept_gravelly_hills"
+    "minecraft:windswept_gravelly_hills",
+    "terralith:rocky_mountains",
+    "terralith:haze_mountain",
+    "terralith:painted_mountains",
+    "terralith:scarlet_mountains",
+    "terralith:yosemite_cliffs",
+    "terralith:granite_cliffs",
+    "terralith:basalt_cliffs",
+    "terralith:white_cliffs",
+    "terralith:stony_spires",
+    "terralith:windswept_spires"
   ]
 }

@@ -1,5 +1,7 @@
 {
   "values": [
-    "minecraft:beach"
+    "minecraft:beach",
+    "terralith:gravel_beach",
+    "terralith:alpha_islands"
   ]
 }

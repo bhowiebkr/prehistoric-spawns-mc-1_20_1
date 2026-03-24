@@ -1,5 +1,9 @@
 {
   "values": [
-    "minecraft:jungle"
+    "minecraft:jungle",
+    "terralith:tropical_jungle",
+    "terralith:rocky_jungle",
+    "terralith:jungle_mountains",
+    "terralith:cloud_forest"
   ]
 }

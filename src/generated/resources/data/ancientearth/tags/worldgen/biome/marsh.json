@@ -1,6 +1,8 @@
 {
   "values": [
+    "minecraft:swamp",
     "minecraft:mangrove_swamp",
-    "minecraft:swamp"
+    "terralith:orchid_swamp",
+    "terralith:ice_marsh"
   ]
 }

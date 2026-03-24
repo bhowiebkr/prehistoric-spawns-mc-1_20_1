@@ -1,6 +1,10 @@
 {
   "values": [
     "minecraft:forest",
-    "minecraft:flower_forest"
+    "minecraft:flower_forest",
+    "terralith:forested_highlands",
+    "terralith:yellowstone",
+    "terralith:shield",
+    "terralith:shield_clearing"
   ]
 }

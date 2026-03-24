@@ -3,7 +3,9 @@
     "minecraft:plains",
     "minecraft:sunflower_plains",
     "minecraft:meadow",
-    "minecraft:savanna",
-    "minecraft:savanna_plateau"
+    "terralith:highlands",
+    "terralith:temperate_highlands",
+    "terralith:blooming_valley",
+    "terralith:valley_clearing"
   ]
 }

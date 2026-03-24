@@ -1,6 +1,9 @@
 {
   "values": [
     "minecraft:birch_forest",
-    "minecraft:old_growth_birch_forest"
+    "minecraft:old_growth_birch_forest",
+    "terralith:snowy_maple_forest",
+    "terralith:shield",
+    "terralith:shield_clearing"
   ]
 }

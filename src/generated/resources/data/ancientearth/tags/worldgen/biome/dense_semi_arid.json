@@ -1,6 +1,7 @@
 {
   "values": [
-    "minecraft:badlands",
-    "minecraft:wooded_badlands"
+    "minecraft:savanna_plateau",
+    "terralith:arid_highlands",
+    "terralith:fractured_savanna"
   ]
 }

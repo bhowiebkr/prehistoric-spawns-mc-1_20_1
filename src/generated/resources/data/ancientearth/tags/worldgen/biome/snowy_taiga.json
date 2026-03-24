@@ -1,6 +1,9 @@
 {
   "values": [
     "minecraft:grove",
-    "minecraft:snowy_taiga"
+    "minecraft:snowy_taiga",
+    "terralith:wintry_lowlands",
+    "terralith:cold_shrubland",
+    "terralith:snowy_shield"
   ]
 }

@@ -1,5 +1,8 @@
 {
   "values": [
-    "minecraft:cherry_grove"
+    "minecraft:cherry_grove",
+    "terralith:sakura_grove",
+    "terralith:sakura_valley",
+    "terralith:snowy_cherry_grove"
   ]
 }

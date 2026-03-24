@@ -1,6 +1,10 @@
 {
   "values": [
     "minecraft:meadow",
-    "minecraft:windswept_hills"
+    "minecraft:windswept_hills",
+    "terralith:highlands",
+    "terralith:temperate_highlands",
+    "terralith:forested_highlands",
+    "terralith:yosemite_lowlands"
   ]
 }

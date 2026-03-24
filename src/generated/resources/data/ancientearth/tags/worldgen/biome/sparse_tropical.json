@@ -1,5 +1,7 @@
 {
   "values": [
-    "minecraft:sparse_jungle"
+    "minecraft:sparse_jungle",
+    "terralith:lush_desert",
+    "terralith:lush_valley"
   ]
 }

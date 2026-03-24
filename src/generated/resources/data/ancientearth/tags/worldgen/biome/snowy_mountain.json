@@ -2,6 +2,9 @@
   "values": [
     "minecraft:frozen_peaks",
     "minecraft:jagged_peaks",
-    "minecraft:snowy_slopes"
+    "minecraft:snowy_slopes",
+    "terralith:alpine_grove",
+    "terralith:alpine_highlands",
+    "terralith:emerald_peaks"
   ]
 }

@@ -1,6 +1,7 @@
 {
   "values": [
     "minecraft:windswept_forest",
-    "minecraft:windswept_hills"
+    "terralith:shield_clearing",
+    "terralith:valley_clearing"
   ]
 }
