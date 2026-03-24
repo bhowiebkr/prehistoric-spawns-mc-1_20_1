@@ -1,13 +1,6 @@
 {
   "values": [
     "minecraft:desert",
-    "terralith:ancient_sands",
-    "terralith:desert_canyon",
-    "terralith:desert_oasis",
-    "terralith:desert_spires",
-    "terralith:gravel_desert",
-    "terralith:sandstone_valley",
-    "terralith:white_mesa",
     "blooming_biosphere:chaparral",
     "still_life:arid_desert",
     "still_life:semiarid_desert",

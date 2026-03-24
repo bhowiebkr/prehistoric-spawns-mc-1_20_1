@@ -1,10 +1,6 @@
 {
   "values": [
     "minecraft:badlands",
-    "minecraft:eroded_badlands",
-    "terralith:savanna_badlands",
-    "terralith:snowy_badlands",
-    "terralith:warped_mesa",
-    "terralith:amethyst_canyon"
+    "minecraft:eroded_badlands"
   ]
 }

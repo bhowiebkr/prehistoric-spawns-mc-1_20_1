@@ -1,7 +1,5 @@
 {
   "values": [
-    "minecraft:windswept_forest",
-    "terralith:birch_taiga",
-    "terralith:shield_clearing"
+    "minecraft:windswept_forest"
   ]
 }
