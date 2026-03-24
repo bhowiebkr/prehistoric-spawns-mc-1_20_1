@@ -6,6 +6,10 @@
     "terralith:highlands",
     "terralith:temperate_highlands",
     "terralith:blooming_valley",
-    "terralith:valley_clearing"
+    "terralith:valley_clearing",
+    "still_life:warm_temperate_clearings",
+    "still_life:warm_temperate_woodlands",
+    "still_life:temperate_forest",
+    "still_life:flooded_grasslands"
   ]
 }

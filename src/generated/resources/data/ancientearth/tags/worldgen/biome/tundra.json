@@ -4,6 +4,13 @@
     "minecraft:ice_spikes",
     "terralith:alpha_islands_winter",
     "terralith:wintry_lowlands",
-    "terralith:cold_shrubland"
+    "terralith:cold_shrubland",
+    "still_life:arctic_tundra",
+    "still_life:lush_tundra",
+    "still_life:barren_tundra",
+    "still_life:snowy_tundra",
+    "still_life:wooded_tundra",
+    "still_life:boreal_alpine_tundra",
+    "still_life:snowy_boreal_alpine_tundra"
   ]
 }

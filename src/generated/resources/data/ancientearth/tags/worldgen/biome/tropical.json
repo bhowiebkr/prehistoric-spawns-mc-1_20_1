@@ -5,6 +5,11 @@
     "terralith:rocky_jungle",
     "terralith:jungle_mountains",
     "terralith:cloud_forest",
-    "blooming_biosphere:rainforest"
+    "blooming_biosphere:rainforest",
+    "still_life:tropical_rainforest",
+    "still_life:old_growth_tropical_rainforest",
+    "still_life:tropical_dry_forest",
+    "still_life:monsoon_forest",
+    "still_life:tropical_wetlands"
   ]
 }

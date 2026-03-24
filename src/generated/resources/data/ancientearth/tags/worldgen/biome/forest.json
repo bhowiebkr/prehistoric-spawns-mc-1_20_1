@@ -5,6 +5,12 @@
     "terralith:forested_highlands",
     "terralith:yellowstone",
     "terralith:shield",
-    "terralith:shield_clearing"
+    "terralith:shield_clearing",
+    "still_life:temperate_forest",
+    "still_life:temperate_mixed_forest",
+    "still_life:old_growth_temperate_forest",
+    "still_life:mediterranean_forest",
+    "still_life:monsoon_forest",
+    "still_life:pine_woods"
   ]
 }

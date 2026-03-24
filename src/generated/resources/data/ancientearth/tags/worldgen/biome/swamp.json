@@ -1,6 +1,9 @@
 {
   "values": [
     "minecraft:swamp",
-    "terralith:orchid_swamp"
+    "terralith:orchid_swamp",
+    "still_life:temperate_swamp",
+    "still_life:mediterranean_swamp",
+    "still_life:flooded_savanna"
   ]
 }

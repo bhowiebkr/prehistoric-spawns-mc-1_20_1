@@ -3,6 +3,14 @@
     "minecraft:beach",
     "terralith:gravel_beach",
     "terralith:alpha_islands",
-    "blooming_biosphere:tidepools"
+    "blooming_biosphere:tidepools",
+    "still_life:temperate_beach",
+    "still_life:mediterranean_beach",
+    "still_life:savanna_beach",
+    "still_life:tropical_beach",
+    "still_life:arid_beach",
+    "still_life:taiga_beach",
+    "still_life:tundra_beach",
+    "still_life:cold_tundra_beach"
   ]
 }

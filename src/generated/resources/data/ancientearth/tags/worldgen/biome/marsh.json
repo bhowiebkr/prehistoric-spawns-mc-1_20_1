@@ -4,6 +4,14 @@
     "minecraft:mangrove_swamp",
     "terralith:orchid_swamp",
     "terralith:ice_marsh",
-    "blooming_biosphere:marsh"
+    "blooming_biosphere:marsh",
+    "still_life:mediterranean_marsh",
+    "still_life:temperate_marsh",
+    "still_life:arctic_wetlands",
+    "still_life:tropical_wetlands",
+    "still_life:mire",
+    "still_life:fen",
+    "still_life:bog",
+    "still_life:mangrove_marsh"
   ]
 }

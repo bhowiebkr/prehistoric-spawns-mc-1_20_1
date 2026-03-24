@@ -11,6 +11,10 @@
     "terralith:basalt_cliffs",
     "terralith:white_cliffs",
     "terralith:stony_spires",
-    "terralith:windswept_spires"
+    "terralith:windswept_spires",
+    "still_life:barren_peaks",
+    "still_life:cold_barren_highlands",
+    "still_life:taiga_highlands",
+    "still_life:barren_mediterranean_highlands"
   ]
 }

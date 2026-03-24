@@ -8,6 +8,12 @@
     "terralith:gravel_desert",
     "terralith:sandstone_valley",
     "terralith:white_mesa",
-    "blooming_biosphere:chaparral"
+    "blooming_biosphere:chaparral",
+    "still_life:arid_desert",
+    "still_life:semiarid_desert",
+    "still_life:cold_desert",
+    "still_life:cold_semi_desert",
+    "still_life:arctic_desert",
+    "still_life:arctic_desert_basin"
   ]
 }

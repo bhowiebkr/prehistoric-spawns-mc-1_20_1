@@ -4,6 +4,10 @@
     "terralith:shrubland",
     "terralith:rocky_shrubland",
     "terralith:hot_shrubland",
-    "terralith:brushland"
+    "terralith:brushland",
+    "still_life:mediterranean_shrubland",
+    "still_life:xeric_shrubland",
+    "still_life:shrub_steppe",
+    "still_life:wooded_semiarid_desert"
   ]
 }

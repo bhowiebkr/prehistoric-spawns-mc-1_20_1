@@ -1,6 +1,8 @@
 {
   "values": [
     "minecraft:bamboo_jungle",
-    "terralith:amethyst_rainforest"
+    "terralith:amethyst_rainforest",
+    "still_life:old_growth_tropical_rainforest",
+    "still_life:tropical_rainforest"
   ]
 }

@@ -2,6 +2,8 @@
   "values": [
     "minecraft:sparse_jungle",
     "terralith:lush_desert",
-    "terralith:lush_valley"
+    "terralith:lush_valley",
+    "still_life:tropical_dry_forest",
+    "still_life:dry_tropical_highlands"
   ]
 }

@@ -4,6 +4,12 @@
     "minecraft:sunflower_plains",
     "terralith:steppe",
     "terralith:mountain_steppe",
-    "terralith:brushland"
+    "terralith:brushland",
+    "still_life:cold_steppe",
+    "still_life:dry_cold_steppe",
+    "still_life:mediterranean_steppe",
+    "still_life:shrub_steppe",
+    "still_life:mixed_forest_steppe",
+    "still_life:grassland_savanna"
   ]
 }

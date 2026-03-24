@@ -1,6 +1,9 @@
 {
   "values": [
     "minecraft:savanna_plateau",
-    "terralith:fractured_savanna"
+    "terralith:fractured_savanna",
+    "still_life:humid_savanna",
+    "still_life:flooded_savanna",
+    "still_life:wooded_savanna"
   ]
 }

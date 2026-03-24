@@ -4,6 +4,8 @@
     "minecraft:snowy_taiga",
     "terralith:wintry_lowlands",
     "terralith:cold_shrubland",
-    "terralith:snowy_shield"
+    "terralith:snowy_shield",
+    "still_life:snowy_boreal_alpine_tundra",
+    "still_life:boreal_alpine_tundra"
   ]
 }

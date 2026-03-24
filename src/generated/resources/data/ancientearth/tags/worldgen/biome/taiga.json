@@ -2,6 +2,9 @@
   "values": [
     "minecraft:taiga",
     "terralith:siberian_taiga",
-    "terralith:wintry_forest"
+    "terralith:wintry_forest",
+    "still_life:cold_taiga",
+    "still_life:cold_taiga_clearings",
+    "still_life:evergreen_taiga"
   ]
 }

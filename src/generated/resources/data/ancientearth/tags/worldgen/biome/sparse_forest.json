@@ -3,6 +3,13 @@
     "minecraft:windswept_forest",
     "terralith:shield_clearing",
     "terralith:valley_clearing",
-    "blooming_biosphere:oak_woodland"
+    "blooming_biosphere:oak_woodland",
+    "still_life:warm_temperate_woodlands",
+    "still_life:mediterranean_wooded_highlands",
+    "still_life:wooded_highlands",
+    "still_life:wooded_savanna",
+    "still_life:wooded_mediterranean_steppe",
+    "still_life:wooded_semiarid_desert",
+    "still_life:wooded_tundra"
   ]
 }

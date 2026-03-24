@@ -2,6 +2,8 @@
   "values": [
     "minecraft:savanna_plateau",
     "terralith:arid_highlands",
-    "terralith:fractured_savanna"
+    "terralith:fractured_savanna",
+    "still_life:arid_highlands",
+    "still_life:mediterranean_highlands"
   ]
 }

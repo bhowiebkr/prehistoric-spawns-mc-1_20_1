@@ -5,6 +5,11 @@
     "minecraft:windswept_savanna",
     "terralith:ashen_savanna",
     "terralith:fractured_savanna",
-    "terralith:savanna_slopes"
+    "terralith:savanna_slopes",
+    "still_life:grassland_savanna",
+    "still_life:humid_savanna",
+    "still_life:flooded_savanna",
+    "still_life:savanna_highlands",
+    "still_life:dry_tropical_highlands"
   ]
 }

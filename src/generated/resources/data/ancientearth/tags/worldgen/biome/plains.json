@@ -4,6 +4,9 @@
     "minecraft:sunflower_plains",
     "terralith:highlands",
     "terralith:temperate_highlands",
-    "terralith:valley_clearing"
+    "terralith:valley_clearing",
+    "still_life:alpine_plains",
+    "still_life:warm_temperate_clearings",
+    "still_life:flooded_grasslands"
   ]
 }

@@ -2,6 +2,8 @@
   "values": [
     "minecraft:forest",
     "terralith:forested_highlands",
-    "terralith:shield"
+    "terralith:shield",
+    "still_life:temperate_mixed_forest",
+    "still_life:old_growth_temperate_forest"
   ]
 }

@@ -6,6 +6,9 @@
     "terralith:arid_highlands",
     "terralith:hot_shrubland",
     "terralith:mirage_isles",
-    "terralith:red_oasis"
+    "terralith:red_oasis",
+    "still_life:arid_desert",
+    "still_life:semiarid_desert",
+    "still_life:arid_highlands"
   ]
 }

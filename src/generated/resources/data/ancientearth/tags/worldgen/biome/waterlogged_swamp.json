@@ -1,6 +1,9 @@
 {
   "values": [
     "minecraft:mangrove_swamp",
-    "terralith:orchid_swamp"
+    "terralith:orchid_swamp",
+    "still_life:mangrove_marsh",
+    "still_life:flooded_savanna",
+    "still_life:tropical_wetlands"
   ]
 }

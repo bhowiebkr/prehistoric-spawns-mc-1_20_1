@@ -5,6 +5,12 @@
     "terralith:wintry_lowlands",
     "terralith:frozen_cliffs",
     "terralith:glacial_chasm",
-    "blooming_biosphere:snowy_cherry_grove"
+    "blooming_biosphere:snowy_cherry_grove",
+    "still_life:arctic_glacier",
+    "still_life:arctic_desert",
+    "still_life:arctic_desert_basin",
+    "still_life:barren_arctic_desert",
+    "still_life:snowy_peaks",
+    "still_life:snowy_barren_peaks"
   ]
 }
